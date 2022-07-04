@@ -34,6 +34,9 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=prakhar12330&show_icons=true&locale=en" alt="prakhar12330" />
 </p>
 
+# :trophy: Github Trophies:
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=prakhar12330" alt="prakhar12330" /></a> </p>
+
 # :bust_in_silhouette: Connect with me:
 <p align="left">
 <a href="https://instagram.com/_.p.r.a.k.h.a.r_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.p.r.a.k.h.a.r_" height="30" width="40" /></a>
@@ -44,6 +47,5 @@
 # :blue_heart: Profile Views:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prakhar12330&label=Profile%20views&color=0e75b6&style=flat" alt="prakhar12330" /> </p>
 
-# :trophy: Github Trophies:
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=prakhar12330" alt="prakhar12330" /></a> </p>
+
 
