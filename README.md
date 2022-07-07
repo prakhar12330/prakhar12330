@@ -34,8 +34,6 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=prakhar12330&show_icons=true&locale=en" alt="prakhar12330" />
 </p>
 
-# :trophy: Github Trophies:
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=prakhar12330" alt="prakhar12330" /></a> </p>
 
 # :bust_in_silhouette: Connect with me:
 <p align="left">
