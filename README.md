@@ -6,7 +6,7 @@
 
 
 
-- 🌱 I’m currently learning **React JS**
+
 
 - 📫 Reach me **prakhar12330@gmail.com**
 
