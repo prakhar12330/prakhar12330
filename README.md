@@ -1,4 +1,4 @@
-![MasterHead](https://thumbs.gfycat.com/ColorlessBitesizedKob-max-1mb.gif)
+
 <h1 align="center">Hi-Ya 👋, I'm Prakhar Singh</h1>
 <h3 align="center">I Am A MERN Stack Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://vibeforgenz.lk/wp-content/uploads/2021/11/ApprehensiveDrearyCaimanlizard-size_restricted.gif">
