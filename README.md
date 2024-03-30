@@ -2,7 +2,7 @@
 <h3 align="center">A passionate MERN stack developer from India.</h3>
 
 
-- 🌱 I’m currently learning **Web3**
+- 🌱 I’m currently learning **Golang**
 
 - 👨‍💻 All of my projects are available at [http://bit.ly/prakharxportfolio](http://bit.ly/prakharxportfolio)
 
